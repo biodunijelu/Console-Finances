@@ -8,6 +8,7 @@ This script performs financial analysis on a dataset, calculating key metrics su
 - [Understanding the Financial Analysis](#Understanding-the-financial-analysis)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [mockup Result](#mockup-result)
 - [Deployment](#deployment)
 - [License](#license)
 
@@ -46,6 +47,10 @@ Assuming the `financialData` array is updated with your financial records, openi
 ## Contributing
 
 Contributions are welcome! If you have suggestions, improvements, or would like to report issues, please open an issue on the GitHub repository.
+
+## Mockup Result
+
+Screenshot `[Screenshot]: https://github.com/biodunijelu/Console-Finances/blob/main/images/mockup_result.png "Screenshot"`
 
 ## Deployment
 
