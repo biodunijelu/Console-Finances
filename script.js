@@ -41,6 +41,7 @@ const financialData = [
         }
       }
     }
-
+// Calculating average change
+let averageChange = totalChange / (totalMonths - 1);
 
 }
