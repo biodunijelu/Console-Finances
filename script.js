@@ -44,4 +44,17 @@ const financialData = [
 // Calculating average change
 let averageChange = totalChange / (totalMonths - 1);
 
+  // Printing the results to the console
+  console.log("Financial Analysis");
+  console.log("----------------------------");
+  console.log(`Total Months: ${totalMonths}`);
+  console.log(`Total: $${totalProfitLoss}`);
+  console.log(`Average Change: $${averageChange.toFixed(2)}`);
+  console.log(
+    `Greatest Increase in Profits/Losses: ${greatestIncrease.date} ($${greatestIncrease.amount})`
+  );
+  console.log(
+    `Greatest Decrease in Profits/Losses: ${greatestDecrease.date} ($${greatestDecrease.amount})`
+  );
 }
+
