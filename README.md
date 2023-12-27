@@ -5,7 +5,7 @@ This script performs financial analysis on a dataset, calculating key metrics su
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Understanding the Financial Analysis](#Understanding)
+- [Understanding the Financial Analysis](#Understanding-the-financial-analysis)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Deployment](#deployment)
