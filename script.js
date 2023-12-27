@@ -58,3 +58,5 @@ let averageChange = totalChange / (totalMonths - 1);
   );
 }
 
+// Call the function with your financial data
+calculateFinancialAnalysis(financialData);
